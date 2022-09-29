@@ -9,7 +9,7 @@ https://replit.com/@gtapia17?path=folder/Programming%20applications%2C%20notes%2
 
 Side Notes:
 
--Roughly 300 programs are from a C++ book that I spent studying for a few months (multiple hours a day). Every program in that C++ book I re-typed myself (not copied and pasted), added additional functionalities, and wrote a lot of notes whenever I needed to understand something. I also did most of the mystery programs in the book, and found creative ways to add all of the library functions to those same programs. 
+-Roughly 300 programs are from a C++ (Chapters 1-14) book that I spent studying for a few months (multiple hours a day). Every program in that C++ book I re-typed myself (not copied and pasted), added additional functionalities, and wrote a lot of notes whenever I needed to understand something. I also did most of the mystery programs in the book, and found creative ways to add all of the library functions to those same programs. 
 
 Just to give you an idea on my studying habits, If I encountered a concept that I did not understand, I would open a container on repl, write a program on it after doing research, add notes, and added a title that corresponded to the chapter that I was on.
 
