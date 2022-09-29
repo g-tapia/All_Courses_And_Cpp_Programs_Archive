@@ -1,18 +1,18 @@
-# -350-Programs-that-I-studied- (When I say that there is over 350 programs here, I mean it. I counted them all. You should be able to navigate through all of them)
+# Over-350-Programs-that-I-studied
 
-So this repository contains a link to all the programs that I stuided over the years.
+So this repository contains a link to most of the programs that I studied over the years with a lot of notes written by me. There are quite a few more but I used a different IDE for the other programs so I never got the chance to save them. I lost some when my other computer messed up.
+
+
+The link takes you to my repl account. You can navigate yourself through the programs once you click on the link.
 
 https://replit.com/@gtapia17?path=folder/Programming%20applications%2C%20notes%2C%20and%20studied%20programs
 
-The link takes you to my repl account. I was not able to transfer all those programs here because repl doesn't have that functionality. It would take me quite a few days to transfer all of them one by one, so instead, I will show screenshots, and you can navigate yourself through the link.
-
 Side Notes:
 
--Roughly 300 programs are from a C++ book that I spent studying for a few months. Every program in that book, I re-wrote myself to understand how they worked (Not copy, and pasted), and wrote notes if I needed too. I also did most of the mystery programs, and added a bunch of different functionalities to most of those programs. I wanted to use all the functions that were mentioned in each section so that I can understand how everything worked.
+-Roughly 300 programs are from a C++ book that I spent studying for a few months (multiple hours a day). Every program in that book, I re-typed myself with notes, added additional functionalities to most of the programs, in order to understand how they work (Not copy, and pasted), and wrote notes if I needed too. I also did most of the mystery programs. I used all the functions that were mentioned in each section so that I can understand how everything worked.
 
--My brother would constantly tell me that I had no life, and I agreed
 
--Some labs are contained in there from my previous courses too.
+-Some labs contained in there are from my previous courses too.
 
 -All the other languages, I copied and pasted most of them from a different IDE because I just wanted to save them
 
