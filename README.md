@@ -1,6 +1,6 @@
 # Over-350-Programs-that-I-studied
 
-So this repository contains a link to most of the programs that I studied over the years with a lot of notes written by me. There are quite a few more but I used a different IDE for the other programs so I never got the chance to save them. I lost some when my other computer messed up.
+So this repository contains a link to most of the programs that I studied over the years with a lot of notes written by me. There are quite a few more but I used a different IDE for the other programs so I never got the chance to save them. I lost some applications when my other computer messed up.
 
 
 The link takes you to my repl account. You can navigate yourself through the programs once you click on the link. Since you are clicking on the link, you are not able to see how I have everything organized according to topics and language.
