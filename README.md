@@ -28,6 +28,8 @@ Just to give you an idea on my studying habits, If I encountered a concept that 
 
 -All the other languages, I copied and pasted some of them from a different IDE because I just wanted to save them.
 
+These pictures are examples of what I have on my account. Just a bunch of notes, and programs to help solidify concepts.
+
 <img width="1123" alt="image" src="https://user-images.githubusercontent.com/78235399/187099896-d5dc7caa-bd8e-471a-a831-daaf5ec61da9.png">
 
 <img width="1119" alt="image" src="https://user-images.githubusercontent.com/78235399/187100416-12b48df0-1e1f-4f48-90a8-5b2a4465162d.png">
