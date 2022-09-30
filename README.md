@@ -17,7 +17,6 @@ Click on show files
 then click on the file you want to view. P.s. The captcha is annoying.
 
 
-Side Note:
 
 -Roughly 300 programs are from a C++ (Chapters 1-14) book that I spent studying for a few months (multiple hours a day). Every program in that C++ book I re-typed myself (not copied and pasted), added additional functionalities, and wrote a lot of notes whenever I needed to understand something. I also did most of the mystery programs in the book, and found creative ways to add all of the library functions to those same programs. 
 
