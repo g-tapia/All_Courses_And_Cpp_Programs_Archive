@@ -1,32 +1,31 @@
-# Over-350-Programs-that-I-studied
+# All Course Work
+This repository serves as an archive of various programs and notes I've accumulated through years of study. 
 
-So this repository contains a link to most of the programs that I studied over the years with a lot of notes written by me.
+To browse through my collection, simply follow the [Replit link](https://replit.com/@gtapia17?path=folder/Programming%20applications%2C%20notes%2C%20and%20studied%20programs). Once there, you can freely navigate through different topics and languages. Prior to clicking the link, I suggest reading the note below. 
 
-The link below takes you to my repl account. You can navigate yourself through the programs once you click on the link. Since you are clicking on the link, you are not able to see how I have everything organized according to topics and language (I put some sample pictures at the bottom of this readme).
+**Note**: Replit recently altered how public links are displayed. Previously, code files were immediately visible, but now you must perform the following steps to access the code:
 
-https://replit.com/@gtapia17?path=folder/Programming%20applications%2C%20notes%2C%20and%20studied%20programs
+1. Click on 'Show Files'
 
-Side note:
-I noticed that replit changed the way you view public links. Before, you were able to see the files/code right away, now you have to do the following to see the code:
+   <pre>
+   <img width="500" height="300" alt="image" src="https://user-images.githubusercontent.com/78235399/193329911-5998e030-2a1a-4c49-98f8-65e10e2ffefe.png">
+   </pre>
 
-Click on show files
+2. Select the file you wish to view (please note that you may encounter a captcha).
 
-<img width="768" alt="image" src="https://user-images.githubusercontent.com/78235399/193329911-5998e030-2a1a-4c49-98f8-65e10e2ffefe.png">
+Additionally, due to the nature of hyperlinks, you might miss the structured organization of content into different topics and languages - a glimpse of which can be seen in the sample images at the end of this README. 
 
-Then, click on the file you want to view (the captcha is annoying, something new they put up).
+## Summary
 
+In particular, I've thoroughly studied a C++ book (Chapters 1-14), from which about 300 programs are derived. Each one of these programs has been typed out manually by me, supplemented with additional functionalities and extensive notes for better understanding. I've also solved most of the mystery programs from the book, incorporating all library functions into these programs.
 
+A testament to my diligent studying habits - if I encountered a difficult concept, I would create a new Replit container, research the concept, write a program to help me apply the concept, add insightful notes, and finally title the program appropriately.
 
-Roughly 300 programs are from a C++ (Chapters 1-14) book that I spent studying for a few months (multiple hours a day). Every program in that C++ book I re-typed myself (not copied and pasted), added additional functionalities, and wrote a lot of notes whenever I needed to understand something. I also did most of the mystery programs in the book, and found creative ways to add all of the library functions to those same programs. 
+The repository also houses labs from my past courses. 
 
-Just to give you an idea on my studying habits, If I encountered a concept that I did not understand, I would open a container on replit, write a program on it after doing research, add notes, and added a title that corresponded to the concept that I was on.
+For the sake of convenience, some code snippets from other languages have been copied from different IDEs and pasted into this repository.
 
-
-Some labs contained in there are from my previous courses too.
-
-All the other languages, I copied and pasted some of them from a different IDE because I just wanted to save them.
-
-These pictures are examples of what I have on my account. Just a bunch of notes, and programs to help solidify concepts.
+The images below offer a peek into the contents of my Replit account: notes and numerous programs, all aiming to reinforce fundamental concepts.
 
 <img width="1123" alt="image" src="https://user-images.githubusercontent.com/78235399/187099896-d5dc7caa-bd8e-471a-a831-daaf5ec61da9.png">
 
