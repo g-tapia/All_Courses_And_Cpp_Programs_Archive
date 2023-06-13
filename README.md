@@ -1,5 +1,5 @@
 # All Course Work
-This repository serves as an archive of various programs and notes I've accumulated through years of study. 
+This repository serves as an archive of various programs (300 of which are C++) and notes I've accumulated through years of study. 
 
 To browse through my collection, simply follow the [Replit link](https://replit.com/@gtapia17?path=folder/Programming%20applications%2C%20notes%2C%20and%20studied%20programs). Once there, you can freely navigate through different topics and languages. Prior to clicking the link, I suggest reading the note below. 
 
